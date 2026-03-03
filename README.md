@@ -32,3 +32,4 @@ Se quiser rodar este dashboard na sua máquina, siga os passos abaixo:
 3. Instale as dependências executando:
    ```bash
    pip install -r requirements.txt
+   streamlit run analise.py

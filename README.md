@@ -5,6 +5,8 @@ A retenção de clientes é um dos maiores desafios do setor financeiro. Este pr
 
 O objetivo foi sair dos dados brutos e entregar um **painel interativo (Dashboard)** com insights acionáveis para as equipes de Marketing e Relacionamento.
 
+📍 Acesse o Dashboard Online: https://debora-churn-bancario.streamlit.app/
+
 ## 💡 Principais Insights e Soluções Propostas
 Através da análise exploratória, identifiquei 6 padrões críticos de cancelamento:
 

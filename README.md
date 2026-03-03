@@ -34,5 +34,4 @@ Se quiser rodar este dashboard na sua máquina, siga os passos abaixo:
    pip install -r requirements.txt
    streamlit run analise.py
 
-   👩‍💻 Autora
 Debora Maestrini Estudante de Análise e Desenvolvimento de Sistemas (Estácio) Em transição de carreira e focada em construir soluções inteligentes com Python e Análise de Dados. Aberta a oportunidades de estágio e projetos freelancer na área de tecnologia.
